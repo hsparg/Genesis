@@ -1,2 +1,2 @@
 # Genesis
-Resource I have used to learn the Genesis Framework
+<li>http://benweiser.com/explaining-genesis-hooks-and-filters-to-a-5-year-old/</li>
